@@ -1,0 +1,13 @@
+# Archivos de entorno y contraseñas
+.env
+
+# Archivos de datos locales
+*.csv
+*.xlsx
+/data/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+.venv/
+env/
